@@ -49,7 +49,7 @@ if (expr)
 	// Block if expr is True
 else
 	// Block if expr is False
-``
+```
 
 If you've read the textbook and are somewhat familiar with MIPS branching, a branch operation is carried out like so:
 
